@@ -1,0 +1,3 @@
+@echo off
+echo 正在執行打字炸彈遊戲...
+.\typing_bomb.exe

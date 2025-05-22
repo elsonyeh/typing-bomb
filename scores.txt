@@ -1,0 +1,4 @@
+player2 80 4 中等
+player3 60 3 困難
+fghj 15 7 簡單
+dfgh 3 3 簡單
